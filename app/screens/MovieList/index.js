@@ -67,7 +67,7 @@ export default class MoveList extends Component {
 
     /**
      * @description Open modal when filterring mode is applied
-     * @author Passion UI <passionui.com>
+     * @author Sejeeth S
      * @date 2019-08-03
      */
     onFilter() {
@@ -77,7 +77,7 @@ export default class MoveList extends Component {
 
     /**
      * @description Open modal when view mode is pressed
-     * @author Passion UI <passionui.com>
+     * @author Sejeeth S
      * @date 2019-08-03
      */
     onChangeView() {

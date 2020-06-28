@@ -27,7 +27,7 @@ class Walkthrough extends Component {
 
     /**
      * @description Simple authentication without call any APIs 
-     * @author Passion UI <passionui.com>
+     * @author Sejeeth S
      * @date 2019-08-03
      */
     authentication() {

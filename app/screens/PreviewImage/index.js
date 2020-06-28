@@ -66,7 +66,7 @@ export default class PreviewImage extends Component {
 
     /**
      * @description Called when image item is selected or activated
-     * @author Passion UI <passionui.com>
+     * @author Sejeeth S
      * @date 2019-08-03
      * @param {*} touched
      * @returns

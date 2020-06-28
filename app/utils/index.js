@@ -89,7 +89,7 @@ export function fromLeft(duration = 300) {
 
 /**
  * @description Transition animation screen expand from on the top of screen
- * @author Passion UI <passionui.com>
+ * @author Sejeeth S
  * @date 2019-08-03
  * @export
  * @param {number} [duration=300]
@@ -124,7 +124,7 @@ export function fromTop(duration = 300) {
 
 /**
  * @description Transition animation screen expand from on the right to left
- * @author Passion UI <passionui.com>
+ * @author Sejeeth S
  * @date 2019-08-03
  * @export
  * @param {number} [duration=300]
@@ -159,7 +159,7 @@ export function fromRight(duration = 300) {
 
 /**
  * @description Transition animation screen expand from on the bottom to top
- * @author Passion UI <passionui.com>
+ * @author Sejeeth S
  * @date 2019-08-03
  * @export
  * @param {number} [duration=300]
@@ -194,7 +194,7 @@ export function fromBottom(duration = 300) {
 
 /**
  * @description Transition animation fadeIn
- * @author Passion UI <passionui.com>
+ * @author Sejeeth S
  * @date 2019-08-03
  * @export
  * @param {number} [duration=300]
@@ -223,7 +223,7 @@ export function fadeIn(duration = 300) {
 
 /**
  * @description Transition animation zoomIn
- * @author Passion UI <passionui.com>
+ * @author Sejeeth S
  * @date 2019-08-03
  * @export
  * @param {number} [duration=300]
@@ -257,7 +257,7 @@ export function zoomIn(duration = 300) {
 
 /**
  * @description Transition animation zoomOut
- * @author Passion UI <passionui.com>
+ * @author Sejeeth S
  * @date 2019-08-03
  * @export
  * @param {number} [duration=300]
@@ -286,7 +286,7 @@ export function zoomOut(duration = 300) {
 
 /**
  * @description Animation effect flip with vertical
- * @author Passion UI <passionui.com>
+ * @author Sejeeth S
  * @date 2019-08-03
  * @export
  * @param {number} [duration=300]
@@ -315,7 +315,7 @@ export function flipY(duration = 300) {
 
 /**
  * @description Animation effect flip with horizontal
- * @author Passion UI <passionui.com>
+ * @author Sejeeth S
  * @date 2019-08-03
  * @export
  * @param {number} [duration=300]

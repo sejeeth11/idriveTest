@@ -1,6 +1,6 @@
 /**
  * Images Defines
- * @author Passion UI <passionui.com>
+ * @author Sejeeth 
  */
 
 export const Images = {
