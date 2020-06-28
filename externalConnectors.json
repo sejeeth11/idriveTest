@@ -1,0 +1,6 @@
+{
+  "serverIp": "https://api.themoviedb.org/3/movie/",
+  "routes": {
+    "now_playing":"now_playing"
+  }
+}
